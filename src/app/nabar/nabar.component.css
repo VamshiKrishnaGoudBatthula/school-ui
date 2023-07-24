@@ -1,0 +1,21 @@
+.main-frame{
+    width:100%;
+   
+}
+#logo{
+    height:4%;
+    width: 4%;
+    padding:10px
+}
+.name_of_application{
+    height: 4%;
+    width: 4%;
+    padding: 10px;
+    font-weight: bold;
+    color: skyblue;
+
+}
+.nav-option{
+    margin-right:5px;
+    padding:10px
+}
